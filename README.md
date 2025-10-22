@@ -14,7 +14,9 @@ Desarrollar un programa que lea palabras desde un archivo de texto y las almacen
 lista enlazada, permitiendo su manipulación dinámica.
 
 Archivo del código 
-<a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio2.java">Ejercicio 1</a>
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio2.java">
+Ejercicio 1
+</a>
 
 ## Actividad 03: Representación y Evaluación de Polinomios con Listas Enlazadas
 ### Objetivo:
