@@ -41,34 +41,18 @@ Desarrollar un programa que construya una lista doblemente enlazada a partir de 
 caracteres de una cadena ingresada por el usuario, y que luego ordene dicha lista
 alfabéticamente para mostrarla en pantalla.
 
-Archivo del código 
-<table>
-  <tr>
-     <a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a
-  </tr>
-</table>
 
 <h2>📂 Archivos del código</h2>
 
 <table>
   <thead>
     <tr>
-      <th>Parte del ejercicio</th>
       <th>Código</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Nodo para lista simple</td>
-      <td><code>Nodo.java</code></td>
-    </tr>
-    <tr>
-      <td>Implementación de la lista</td>
-      <td><code>ListaEnlazada.java</code></td>
-    </tr>
-    <tr>
-      <td>Clase principal</td>
-      <td><code>Main.java</code></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a></td>
     </tr>
   </tbody>
 </table>
