@@ -32,7 +32,7 @@ Modificar la representación de un polinomio mediante lista enlazada simple para
 convierta en una lista circular, optimizando el acceso y recorrido continuo.
 
 Archivo del código 
-<a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio4.java">Ejercicio 1</a>
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio4.java">Ejercicio 4</a>
 
 
 ## Actividad 05: Lista Doblemente Enlazada de Caracteres
@@ -42,6 +42,8 @@ caracteres de una cadena ingresada por el usuario, y que luego ordene dicha list
 alfabéticamente para mostrarla en pantalla.
 
 Archivo del código 
-<a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 1</a>
+<table>
+  <a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a>
+</table>
 
-<div height="10px" width="100px" backgroundColor="red"></div>
+
