@@ -48,4 +48,29 @@ Archivo del código
   </tr>
 </table>
 
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nodo para lista simple</td>
+      <td><code>Nodo.java</code></td>
+    </tr>
+    <tr>
+      <td>Implementación de la lista</td>
+      <td><code>ListaEnlazada.java</code></td>
+    </tr>
+    <tr>
+      <td>Clase principal</td>
+      <td><code>Main.java</code></td>
+    </tr>
+  </tbody>
+</table>
+
 
