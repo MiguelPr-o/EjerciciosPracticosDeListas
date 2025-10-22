@@ -5,7 +5,7 @@
 Desarrollar un programa que implemente operaciones básicas sobre una lista enlazada
 simple de números enteros positivos.
 
-📂### Archivos del código
+###📂 Archivos del código
 <table>
   <thead>
     <tr>
