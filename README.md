@@ -5,7 +5,7 @@
 Desarrollar un programa que implemente operaciones básicas sobre una lista enlazada
 simple de números enteros positivos.
 
-### Archivos del código
+<h2>📂 Archivos del código</h2>
 <table>
   <thead>
     <tr>
@@ -26,7 +26,7 @@ simple de números enteros positivos.
 Desarrollar un programa que lea palabras desde un archivo de texto y las almacene en una
 lista enlazada, permitiendo su manipulación dinámica.
 
-📂 ### Archivos del código
+<h2>📂 Archivos del código</h2>
 <table>
   <thead>
     <tr>
@@ -47,7 +47,7 @@ lista enlazada, permitiendo su manipulación dinámica.
 Desarrollar un programa que permita representar polinomios mediante una lista enlazada
 simple y calcular sus valores para distintos puntos de evaluación.
 
-📂 ### Archivos del código
+<h2>📂 Archivos del código</h2>
 <table>
   <thead>
     <tr>
@@ -68,7 +68,7 @@ simple y calcular sus valores para distintos puntos de evaluación.
 Modificar la representación de un polinomio mediante lista enlazada simple para que se
 convierta en una lista circular, optimizando el acceso y recorrido continuo.
 
-📂 ### Archivos del código
+<h2>📂 Archivos del código</h2>
 <table>
   <thead>
     <tr>
@@ -92,8 +92,7 @@ Desarrollar un programa que construya una lista doblemente enlazada a partir de 
 caracteres de una cadena ingresada por el usuario, y que luego ordene dicha lista
 alfabéticamente para mostrarla en pantalla.
 
-
-📂 ### Archivos del código
+<h2>📂 Archivos del código</h2>
 
 <table>
   <thead>
