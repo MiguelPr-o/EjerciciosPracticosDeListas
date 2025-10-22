@@ -43,7 +43,9 @@ alfabéticamente para mostrarla en pantalla.
 
 Archivo del código 
 <table>
-  <a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a>
+  <tr>
+     <a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a
+  </tr>
 </table>
 
 
