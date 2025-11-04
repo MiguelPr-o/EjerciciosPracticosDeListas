@@ -32,6 +32,9 @@ lista enlazada, permitiendo su manipulación dinámica.
     <tr>
       <th>Código</th>
     </tr>
+        <tr>
+      <th>Código</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
