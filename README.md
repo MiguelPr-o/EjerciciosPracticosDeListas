@@ -128,11 +128,112 @@ Practicar las operaciones básicas push y pop en una pila.
   <tbody>
     <tr>
       <td>Clase Pila</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
     </tr>
     <tr>
-      <td>Ejercicio 1</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 1</a></td>
+      <td>Simulación simple de pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio1.java">Clase principal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+##  Actividad 2: Pila de nombres
+###  Objetivo: 
+Permitir al usuario ingresar nombres y mostrarlos en orden inverso.
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Pila de nombres</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio2.java">Clase principal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+##  Actividad 3: Verificar si una pila está vacía
+###  Objetivo: 
+Comprobar si la pila tiene elementos.
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Verificar si una pila está vacía</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio3.java">Clase principal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+##  Actividad 4: Invertir una palabra
+###  Objetivo: 
+Invertir una palabra usando una pila de caracteres.
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Invertir una palabra</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio4.java">Clase principal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+##  Actividad 7: Simular función Deshacer (Undo)
+###  Objetivo: 
+Implementar acciones y deshacer la última con una pila.
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Simular función Deshacer (Undo)</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio5.java">Clase Principal</a></td>
     </tr>
   </tbody>
 </table>
