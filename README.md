@@ -1,8 +1,8 @@
 # Ejercicios Practicos
 
-##
+## Ejercicios de Listas
 ### Actividad 01: Manipulación de Lista Enlazada
-### Objetivo:
+#### Objetivo:
 Desarrollar un programa que implemente operaciones básicas sobre una lista enlazada
 simple de números enteros positivos.
 
