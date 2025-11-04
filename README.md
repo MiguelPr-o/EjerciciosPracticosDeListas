@@ -1,8 +1,8 @@
 # Ejercicios Practicos
 
-## Ejercicios de Listas
-### Actividad 01: Manipulación de Lista Enlazada
-#### Objetivo:
+# Ejercicios de Listas
+## Actividad 01: Manipulación de Lista Enlazada
+### Objetivo:
 Desarrollar un programa que implemente operaciones básicas sobre una lista enlazada
 simple de números enteros positivos.
 
@@ -110,4 +110,29 @@ alfabéticamente para mostrarla en pantalla.
   </tbody>
 </table>
 
+## Ejercicios de Pilas
 
+##  Actividad 1: Simulación simple de pila
+###  Objetivo: 
+Practicar las operaciones básicas push y pop en una pila. 
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 5</a></td>
+    </tr>
+    <tr>
+      <td>Ejercicio 1</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosDeListas/blob/main/EjercicioPracticosDeLista/Ejercicio5.java">Ejercicio 1</a></td>
+    </tr>
+  </tbody>
+</table>
