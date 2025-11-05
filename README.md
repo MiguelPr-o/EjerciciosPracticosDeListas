@@ -137,7 +137,12 @@ Practicar las operaciones básicas push y pop en una pila.
   </tbody>
 </table>
 
-Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio1.mp4">Ejercicio 1</a>
+<p><strong>🎥 Video demostrativo:</strong> 
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio1.mp4" target="_blank" rel="noopener noreferrer">
+Ver Ejercicio 1
+</a>
+</p>
+
 
 ##  Actividad 2: Pila de nombres
 ###  Objetivo: 
@@ -164,7 +169,12 @@ Permitir al usuario ingresar nombres y mostrarlos en orden inverso.
   </tbody>
 </table>
 
-Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio2.mp4">Ejercicio 2</a>
+<p><strong>🎥 Video demostrativo:</strong> 
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio2.mp4" target="_blank" rel="noopener noreferrer">
+Ver Ejercicio 2
+</a>
+</p>
+
 
 ##  Actividad 3: Verificar si una pila está vacía
 ###  Objetivo: 
@@ -191,7 +201,11 @@ Comprobar si la pila tiene elementos.
   </tbody>
 </table>
 
-Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio3.mp4">Ejercicio 3</a>
+<p><strong>🎥 Video demostrativo:</strong> 
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio3.mp4" target="_blank" rel="noopener noreferrer">
+Ver Ejercicio 3
+</a>
+</p>
 
 ##  Actividad 4: Invertir una palabra
 ###  Objetivo: 
@@ -218,7 +232,11 @@ Invertir una palabra usando una pila de caracteres.
   </tbody>
 </table>
 
-Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio4.mp4">Ejercicio 4</a>
+<p><strong>🎥 Video demostrativo:</strong> 
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio4.mp4" target="_blank" rel="noopener noreferrer">
+Ver Ejercicio 4
+</a>
+</p>
 
 ##  Actividad 7: Simular función Deshacer (Undo)
 ###  Objetivo: 
@@ -245,7 +263,11 @@ Implementar acciones y deshacer la última con una pila.
   </tbody>
 </table>
 
-Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio7.mp4">Ejercicio 7</a>
+<p><strong>🎥 Video demostrativo:</strong> 
+<a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio7.mp4" target="_blank" rel="noopener noreferrer">
+Ver Ejercicio 7
+</a>
+</p>
 
 ## Ejercicios Practicos de Colas
 
