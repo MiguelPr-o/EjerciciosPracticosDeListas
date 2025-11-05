@@ -123,7 +123,6 @@ Practicar las operaciones básicas push y pop en una pila.
     <tr>
       <th>Parte del ejercicio</th>
       <th>Código</th>
-      <th>Video</th>
     </tr>
   </thead>
   <tbody>
@@ -135,12 +134,10 @@ Practicar las operaciones básicas push y pop en una pila.
       <td>Simulación simple de pila</td>
       <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/SimulacionSimpleLista.java">Clase principal</a></td>
     </tr>
-    <tr>
-      <td>Simulación simple de pila</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/SimulacionSimpleLista.java">Clase principal</a></td>
-    </tr>
   </tbody>
 </table>
+
+Video: https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio1.mp4
 
 ##  Actividad 2: Pila de nombres
 ###  Objetivo: 
