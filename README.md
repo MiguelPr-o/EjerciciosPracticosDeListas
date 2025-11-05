@@ -137,7 +137,7 @@ Practicar las operaciones básicas push y pop en una pila.
   </tbody>
 </table>
 
-Video: https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio1.mp4
+Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio1.mp4">Ejercicio 1</a>
 
 ##  Actividad 2: Pila de nombres
 ###  Objetivo: 
@@ -164,6 +164,7 @@ Permitir al usuario ingresar nombres y mostrarlos en orden inverso.
   </tbody>
 </table>
 
+Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio2.mp4">Ejercicio 2</a>
 
 ##  Actividad 3: Verificar si una pila está vacía
 ###  Objetivo: 
@@ -190,6 +191,8 @@ Comprobar si la pila tiene elementos.
   </tbody>
 </table>
 
+Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio3.mp4">Ejercicio 3</a>
+
 ##  Actividad 4: Invertir una palabra
 ###  Objetivo: 
 Invertir una palabra usando una pila de caracteres.
@@ -215,6 +218,8 @@ Invertir una palabra usando una pila de caracteres.
   </tbody>
 </table>
 
+Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio4.mp4">Ejercicio 4</a>
+
 ##  Actividad 7: Simular función Deshacer (Undo)
 ###  Objetivo: 
 Implementar acciones y deshacer la última con una pila.
@@ -239,6 +244,8 @@ Implementar acciones y deshacer la última con una pila.
     </tr>
   </tbody>
 </table>
+
+Video: <a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/VideosPilas/Ejercicio7.mp4">Ejercicio 7</a>
 
 ## Ejercicios Practicos de Colas
 
