@@ -343,7 +343,6 @@ o Liberan el carrito al pagar.
 </table>
 
 ## Ejercicio 3:  Simulación de atención al cliente en supermercado 
-Esperanza
 
 ### Descripcion: 
 Simular el flujo de atención durante 7 horas considerando: 
