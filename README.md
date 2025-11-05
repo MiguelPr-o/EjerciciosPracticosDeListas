@@ -123,6 +123,7 @@ Practicar las operaciones básicas push y pop en una pila.
     <tr>
       <th>Parte del ejercicio</th>
       <th>Código</th>
+      <th>Video</th>
     </tr>
   </thead>
   <tbody>
@@ -132,7 +133,11 @@ Practicar las operaciones básicas push y pop en una pila.
     </tr>
     <tr>
       <td>Simulación simple de pila</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio1.java">Clase principal</a></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/SimulacionSimpleLista.java">Clase principal</a></td>
+    </tr>
+    <tr>
+      <td>Simulación simple de pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/SimulacionSimpleLista.java">Clase principal</a></td>
     </tr>
   </tbody>
 </table>
@@ -157,7 +162,7 @@ Permitir al usuario ingresar nombres y mostrarlos en orden inverso.
     </tr>
     <tr>
       <td>Pila de nombres</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio2.java">Clase principal</a></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/PilaNombres.java">Clase principal</a></td>
     </tr>
   </tbody>
 </table>
@@ -183,7 +188,7 @@ Comprobar si la pila tiene elementos.
     </tr>
     <tr>
       <td>Verificar si una pila está vacía</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio3.java">Clase principal</a></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/VerificarPilaVacia.java">Clase principal</a></td>
     </tr>
   </tbody>
 </table>
@@ -208,7 +213,7 @@ Invertir una palabra usando una pila de caracteres.
     </tr>
     <tr>
       <td>Invertir una palabra</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio4.java">Clase principal</a></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/InvertirPalabra.java">Clase principal</a></td>
     </tr>
   </tbody>
 </table>
@@ -233,7 +238,122 @@ Implementar acciones y deshacer la última con una pila.
     </tr>
     <tr>
       <td>Simular función Deshacer (Undo)</td>
-      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Ejercicio5.java">Clase Principal</a></td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/FuncionDeshacer.java">Clase Principal</a></td>
     </tr>
+  </tbody>
+</table>
+
+## Ejercicios Practicos de Colas
+
+## Ejercicio 1: Comparación de colas
+
+### Descripción: 
+Escribir un método que reciba como argumentos dos colas del mismo tipo y devuelva true 
+si ambas colas son idénticas (mismo tamaño y mismos elementos en el mismo orden), o 
+false en caso contrario. 
+
+### Objetivo:
+ Aplicar estructuras de datos tipo cola. 
+• Implementar recorrido y comparación de elementos. 
+• Preservar el estado original de las colas (opcional con colas auxiliares).
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Simular función Deshacer (Undo)</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/FuncionDeshacer.java">Clase Principal</a></td>
+    </tr>
+
+  </tbody>
+</table>
+
+## Ejercicio 2: Simulación de supermercado con carritos y cajas
+### Descripcion: 
+Simular el funcionamiento de un supermercado con: 
+• 25 carritos de compra. 
+• 3 cajas de pago. 
+• Clientes que:  
+o Esperan si no hay carritos disponibles. 
+o Se colocan en la cola de la caja con menos clientes. 
+o No abandonan el supermercado. 
+o Liberan el carrito al pagar. 
+
+### Objetivo:
+ Modelar colas para carritos y cajas. 
+• Aplicar lógica de asignación y liberación de recursos. 
+• Simular comportamiento de clientes en tiempo discreto.
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Simular función Deshacer (Undo)</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/FuncionDeshacer.java">Clase Principal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+## Ejercicio 3:  Simulación de atención al cliente en supermercado 
+Esperanza
+
+### Descripcion: 
+Simular el flujo de atención durante 7 horas considerando: 
+• Una fila única de clientes. 
+• 3 cajas activas, con posibilidad de abrir una cuarta caja si hay más de 20 clientes. 
+• Tiempos de atención distribuidos uniformemente por caja. 
+• Llegadas de clientes cada minuto (en promedio). 
+• Estadísticas a calcular:  
+o Total de clientes atendidos. 
+o Tamaño medio y máximo de la fila. 
+o Tiempo máximo de espera. 
+o Tiempo de apertura de la cuarta caja.
+
+### Objetivos: 
+ Aplicar estructuras de cola y simulación temporal. 
+• Implementar lógica condicional y aleatoria. 
+• Generar estadísticas de rendimiento. 
+
+<h2>📂 Archivos del código</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parte del ejercicio</th>
+      <th>Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clase Pila</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/Stack.java">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Simular función Deshacer (Undo)</td>
+      <td><a href="https://github.com/MiguelPr-o/EjerciciosPracticosU2/blob/main/EjerciciosPracticosDePilas/FuncionDeshacer.java">Clase Principal</a></td>
+    </tr>
+    <tr>
   </tbody>
 </table>
